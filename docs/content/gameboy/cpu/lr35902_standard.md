@@ -2569,7 +2569,7 @@ RST         | 0x18       | 0xdf   | 32
 RST         | 0x20       | 0xe7   | 32
 RST         | 0x28       | 0xef   | 32
 RST         | 0x30       | 0xf7   | 32
-RST         | 0x38       | 0xcf   | 32
+RST         | 0x38       | 0xff   | 32
 
 4) 代码实现
 
